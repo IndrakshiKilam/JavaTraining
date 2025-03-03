@@ -2,7 +2,7 @@ package com.test;
 import java.util.*; 
 import java.util.stream.Collectors;
 
-public class Emp {
+public class Emp { 
 
     private int id;
     private String name;
